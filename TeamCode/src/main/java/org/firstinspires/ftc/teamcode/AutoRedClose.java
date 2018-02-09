@@ -20,7 +20,7 @@ public class AutoRedClose extends LinearOpMode {
 
     private RobotAutonomous robot = new RobotAutonomous();
 
-    private static final double     DRIVE_SPEED             = 0.2;
+    private static final double     DRIVE_SPEED             = 0.1;
     private static final double     TURN_SPEED              = 0.1;
 
     private static final double LEFT_COLUMN = 30;
